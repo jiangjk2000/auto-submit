@@ -1,6 +1,6 @@
 # auto-submit
 
-# 免费API
+# 免费模拟登陆API（Jiangjk）
 http://azhk1.anyhk.xyz:55555/wisedu-unified-login-api-v1.0/swagger-ui.html#/api-controller/loginUsingPOST
 
 # 禁止任何人使用此项目提供付费的代挂服务
