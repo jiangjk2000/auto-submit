@@ -1,5 +1,8 @@
 # auto-submit
 
+# 免费API
+http://azhk1.anyhk.xyz:55555/wisedu-unified-login-api-v1.0/swagger-ui.html#/api-controller/loginUsingPOST
+
 # 禁止任何人使用此项目提供付费的代挂服务
 
 #### 今日校园每日自动提交疫情上报py脚本，支持邮件推送提交结果消息，支持<s>几乎</s>所有学校（今日校园）
